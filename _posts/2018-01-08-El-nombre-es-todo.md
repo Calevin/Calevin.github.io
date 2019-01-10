@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El nombre es todo
-tags: [blog]
+tags: blog
 ---
 
 &nbsp;Este es el primer post de mi primer blog, otro blog condenado al abandono.
