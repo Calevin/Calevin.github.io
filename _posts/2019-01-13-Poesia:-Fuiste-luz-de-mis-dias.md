@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuiste luz de mis días (Poesía)
-tags: años-lacrimosos
+tags: años-lacrimosos poesias
 ---
 
 # Fuiste luz de mis días
