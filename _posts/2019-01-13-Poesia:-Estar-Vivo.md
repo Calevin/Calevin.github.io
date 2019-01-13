@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estar vivo (Poesía)
-tags: años-lacrimosos
+tags: años-lacrimosos poesias
 ---
 # Estar vivo
 
