@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tesis de un ángel en pena (Poesía)
-tags: años-lacrimosos
+tags: años-lacrimosos poesias
 ---
 
 # Tesis de un ángel en pena
