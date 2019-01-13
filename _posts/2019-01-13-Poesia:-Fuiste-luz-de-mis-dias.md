@@ -7,7 +7,7 @@ tags: años-lacrimosos poesias
 # Fuiste luz de mis días
 
 Cada cosa tiene su luz,<br/>
-reflejo del sol eterno.  
+reflejo del sol eterno.<br/>
 Tu alma debe ser el sol,<br/>
 que más brilla en este universo.<br/>
 
