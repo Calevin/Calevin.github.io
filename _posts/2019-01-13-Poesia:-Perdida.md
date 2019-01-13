@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perdida (Poesía)
-tags: años-lacrimosos
+tags: años-lacrimosos poesias
 ---
 
 # Perdida
