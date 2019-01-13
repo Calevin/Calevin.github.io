@@ -30,7 +30,7 @@ Decime, entonces, ¿qué hago?&nbsp;
 ¿Qué queda si ya no estas?&nbsp;
 Sin sol, sin amor, sin palabras&nbsp;
 sin mundo, sin luz... si te vas.&nbsp;
-> 31 de Octubre 2008
+<br/>&nbsp;_31 de Octubre 2008_
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
 
