@@ -12,12 +12,11 @@ layout: default
     {% endfor %}
     ]
   </span>
-  <div class="entry">
-    {{ content }}
-  </div>
-
   <div class="date">
     {{ page.date | date: "%m/%d/%Y" }}
+  </div>
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include disqus.html %}
