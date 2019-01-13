@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Esperanzador
+title: Cuento: El Esperanzador
 tags: cuentos
 ---
 
