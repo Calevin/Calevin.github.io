@@ -1,0 +1,6 @@
+---
+layout: post
+title: Sobre los breves comentarios
+tags: blog
+---
+<br/>&nbsp;La mayoría de las cosas que publico, incluso [poesías](https://calevin.github.io/tag/blog/) terminadas, llevan un breve comentario de mi parte, creo que es un poco extraño, incluso _pedante y denso_ leer las propias explicaciones del autor, sin embargo también creo que enriquece bastante lo posteado. Nada de lo que publico vale demasiado por si mismo, y a mi en lo personal siempre me gustan los comentarios de autor, así que trato de que sean cosas breves, puntuales y que me resultaria interesante leer si estuviera del otro lado.<br/>&nbsp;Pienso también que los _breves comentarios_ le pueden servir a personas que estén tratando de encontrar una manera personal de escribir, para comparar experiencias, para imitar mientras se busca una manera propia de trabajar, para sentirse menos mal con lo que se escribe, porque si yo no tengo vergüenza de postear estas cosas por qué vos deberías tener vergüenza de postear lo tuyo que seguramente es mejor, *ahre*.<br/>&nbsp;Espero que disfruten estos _breves comentarios_ como yo disfruto escribiendolos, en muchos casos me parecen mejores que el texto que estoy comentando.<br/>&nbsp;Saludos!
