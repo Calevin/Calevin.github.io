@@ -6,36 +6,36 @@ tags: años-lacrimosos
 
 # Perdida
 
-Seras para mí la perdida
-más difícil de sobrellevar.
-Seras un dolor eterno
-que siempre voy a guardar.
+Seras para mí la perdida<br/>
+más difícil de sobrellevar.<br/>
+Seras un dolor eterno<br/>
+que siempre voy a guardar.<br/>
 
-Que ciego fui ¡Ho Señor!
-Que no vi tan preciado tesoro.
-¿Por que te habre dejado ir?
-Para sufrir de este modo.
+Que ciego fui ¡Ho Señor!<br/>
+Que no vi tan preciado tesoro.<br/>
+¿Por que te habre dejado ir?<br/>
+Para sufrir de este modo.<br/>
 
-Sera siempre tu recuerdo
-una herida profunda en mi pecho.
-Desangro por verte de nuevo,
-ahora que ya no te tengo.
+Sera siempre tu recuerdo<br/>
+una herida profunda en mi pecho.<br/>
+Desangro por verte de nuevo,<br/>
+ahora que ya no te tengo.<br/>
 
-El tiempo sigue eterno,
-el tiempo sigue y me empuja.
-Mientras deja el reloj en mi cuerpo
-hondas heridas de agujas.
+El tiempo sigue eterno,<br/>
+el tiempo sigue y me empuja.<br/>
+Mientras deja el reloj en mi cuerpo<br/>
+hondas heridas de agujas.<br/>
 
-El tiempo me duele sin ti,
-en esta multitud estoy solo.
-Ya no tengo, ya perdí,
-todo lo que hoy mas añoro.
+El tiempo me duele sin ti,<br/>
+en esta multitud estoy solo.<br/>
+Ya no tengo, ya perdí,<br/>
+todo lo que hoy mas añoro.<br/>
 
-Tengo miedo de que ya no vuelvas,
-tengo miedo y pierdo la calma.
-Tengo miedo de haberte perdido
-y con vos haber perdido mi alma.
->18 de Noviembre de 2008
+Tengo miedo de que ya no vuelvas,<br/>
+tengo miedo y pierdo la calma.<br/>
+Tengo miedo de haberte perdido<br/>
+y con vos haber perdido mi alma.<br/>
+<br/>&nbsp;_18 de Noviembre de 2008_
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
 
