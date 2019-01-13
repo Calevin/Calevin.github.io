@@ -5,47 +5,47 @@ tags: años-lacrimosos
 ---
 # Estar vivo
 
-Miedos, dudas, lo desconocido
-Pensar lo peor
-pensar lo mejor
-tener miedo a perderlo
+Miedos, dudas, lo desconocido<br/>
+Pensar lo peor<br/>
+pensar lo mejor<br/>
+tener miedo a perderlo<br/>
 
-Estar completamente seguro
-y al instante dudar
-odiarse por eso
-pero sin dejarse amar
+Estar completamente seguro<br/>
+y al instante dudar<br/>
+odiarse por eso<br/>
+pero sin dejarse amar<br/>
 
-Querer que todo termine
-o querer estar muy lejos
-o no aguantar la espera
-del paso del tiempo
+Querer que todo termine<br/>
+o querer estar muy lejos<br/>
+o no aguantar la espera<br/>
+del paso del tiempo<br/>
 
-Pensar en vos y sentirme un _bicho_,
-un sacrílego, un paria,
-un crédulo, un ciego
-que no se ve al espejo
+Pensar en vos y sentirme un _bicho_,<br/>
+un sacrílego, un paria,<br/>
+un crédulo, un ciego<br/>
+que no se ve al espejo<br/>
 
-Decir si con seguridad,
-con una seguridad tambaleante
-Decir no razonablemente,
-con una razón delirante
+Decir si con seguridad,<br/>
+con una seguridad tambaleante<br/>
+Decir no razonablemente,<br/>
+con una razón delirante<br/>
 
-Sentirse estúpido
-y con ganas de hacer estupideces
+Sentirse estúpido<br/>
+y con ganas de hacer estupideces<br/>
 
-No querer mas preguntas,
-tener la certeza
-de no querer
-mas cosas inciertas.
+No querer mas preguntas,<br/>
+tener la certeza<br/>
+de no querer<br/>
+mas cosas inciertas.<br/>
 
-Estar enamorado
-estar vivo
-estar seguro en el camino
-estar enamorado
-estar seguro, estar perdido
+Estar enamorado<br/>
+estar vivo<br/>
+estar seguro en el camino<br/>
+estar enamorado<br/>
+estar seguro, estar perdido<br/>
 
-Estar enamorado
-es estar vivo...
+Estar enamorado<br/>
+es estar vivo...<br/>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
 
