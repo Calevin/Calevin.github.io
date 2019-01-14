@@ -46,7 +46,7 @@ Darles castigos sublimes.<br/>
 
 ---
 
-<br/>&nbsp;Como dice la fecha con la que lo tengo anotado, la idea original surgió en 2005, estaba en el secundario y una compañera que acaba de terminar con un novio se sentó al lado mio, sumida en la tristeza, _se abrazo las rodillas_ y hablo un rato al respecto. Por lo visto hice una revisión en 2008, año en el cual tengo datada otras cosas de los [_Años Lacrimosos_](https://calevin.github.io/Sobre-Los-A%C3%B1os-Lacrimosos/), quizás porque es el año en que encontré [_mi Regla de Tres Simple_](https://calevin.github.io/Escribir-y-Mi-Regla-de-Tres-Simple/). Creo reconocer que la parte de _Para que pueda pisar tus sueños, sin sentir que pisa tu alma_ se inspiro en:<br/>
+<br/>&nbsp;Como dice la fecha con la que lo tengo anotado, la idea original surgió en 2005, estaba en el secundario y una compañera que acaba de terminar con un novio se sentó al lado mio, sumida en la tristeza, _se abrazo las rodillas_ y hablo un rato al respecto. Por lo visto hice una revisión en 2008, año en el cual tengo datada otras cosas de los [_Años Lacrimosos_](https://calevin.github.io/Blog-Sobre-Los-A%C3%B1os-Lacrimosos/), quizás porque es el año en que encontré [_mi Regla de Tres Simple_](https://calevin.github.io/Blog-Escribir-y-Mi-Regla-de-Tres-Simple/). Creo reconocer que la parte de _Para que pueda pisar tus sueños, sin sentir que pisa tu alma_ se inspiro en:<br/>
 <br/>&nbsp;_I have spread my dreams under your feet;<br/>&nbsp;Tread softly, because you tread on my dreams._
 
  <br/>&nbsp;_He tendido mis sueños ante tus píes;<br/>&nbsp;Pisa con cuidado, porque pisas mis sueños._<br/>
