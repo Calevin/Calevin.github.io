@@ -3,21 +3,10 @@ layout: post
 title: Escribir y Mi Regla de Tres Simple
 tags: blog
 ---
-<br/>&nbsp;Escribí muchas cosas basado en la _inspiración_, simplemente cosas que venían a mi cabeza, también escribí muchas otras basado en la inercia, venia el primer verso a mi mente y de ahí hilaba el resto. La mayoría de esas cosas ya no existen... ¿Por qué?<br/>&nbsp;Porque todavía no había forjado mi _Regla de Tres Simple_, hoy me parece obvio, demasiado obvio incluso, pero durante mucho tiempo, sobretodo la niñez, no tenia la mas puta idea de como escribir un texto, _ok_, ahora tampoco, pero ahora al menos alcanzo una idea de terminación que permite preservarlos con cariño y hasta publicarlos en este blog.<br/>&nbsp;El problema era no entender algunas cosas, que repito son básicas, pero yo siempre fui lerdo para entender y tuve que esperar hasta empezar la universidad para que una profesora me lo dijera y fuera una epifanía.<br/>&nbsp;Los textos no son (_solo_) inspiración, no son eso que surge en nuestra cabeza, empece a darle vueltas a esa idea y a revisar porque no me cerraban las cosas que hacia, no me satisfacía lo que escribía y me di cuenta que necesitaban tres cosas simples para alcanzar un nivel que mínimamente me hicieran sentir satisfecho con lo escrito. Estas tres cosas a hacer son ajenas a la inspiración, no me acuerdo quien dijo "1% inspiración, 99% esfuerzo", y coincido, por eso escribo tan mal, me falta como 95% de esfuerzo.<br/>&nbsp;El tema es que mas allá de la inspiración me di cuenta que necesitaba hacer tres trabajos sobre cada texto:
-
-```mermaid
-graph LR
-P((Planificación))
-I((Investigación)) 
-C((Corrección))
-P --> I
-P --> C
-C --> I
-I --> P
-C --> P
-I --> C
-```
-
+<br/>&nbsp;Escribí muchas cosas basado en la _inspiración_, simplemente cosas que venían a mi cabeza, también escribí muchas otras basado en la inercia, venia el primer verso a mi mente y de ahí hilaba el resto. La mayoría de esas cosas ya no existen... ¿Por qué?<br/>&nbsp;Porque todavía no había forjado mi _Regla de Tres Simple_, hoy me parece obvio, demasiado obvio incluso, pero durante mucho tiempo, sobretodo la niñez, no tenia la mas puta idea de como escribir un texto, _ok_, ahora tampoco, pero ahora al menos alcanzo una idea de terminación que permite preservarlos con cariño y hasta publicarlos en este blog.<br/>&nbsp;El problema era no entender algunas cosas, que repito son básicas, pero yo siempre fui lerdo para entender y tuve que esperar hasta empezar la universidad para que una profesora me lo dijera y fuera una epifanía.<br/>&nbsp;Los textos no son (_solo_) inspiración, no son eso que surge en nuestra cabeza, empece a darle vueltas a esa idea y a revisar porque no me cerraban las cosas que hacia, no me satisfacía lo que escribía y me di cuenta que necesitaban tres cosas simples para alcanzar un nivel que mínimamente me hicieran sentir satisfecho con lo escrito. Estas tres cosas a hacer son ajenas a la inspiración, no me acuerdo quien dijo "1% inspiración, 99% esfuerzo", y coincido, por eso escribo tan mal, me falta como 95% de esfuerzo.<br/>&nbsp;El tema es que mas allá de la inspiración me di cuenta que necesitaba hacer tres trabajos sobre cada texto:<br/>
+1. Planificación<br/>
+2. Investigación<br/>
+3. Corrección<br/>
 <br/>&nbsp;**Planificación:** Se refiere simplemente a pensar por qué existe lo que estoy escribiendo, y cómo lo voy a estructurar, y no, a mí no me sirve el _existe porque algo me inspiro a escribirlo_, puede surgir de una inspiración pero en algún momento tengo que conseguirle un _sentido de ser_, un tono y final, al cual debe llegar, a veces publicare cosas inconclusas, esas cosas no están escritas para mí, son un boceto, pero no están terminadas, no solo porque podría ampliarlas o cerrar lo que relatan, no están escritas ni terminadas porque no tienen un _sentido de ser_.. aún.
  <br/>&nbsp;**Investigación:** Si tuviera que escribir una ficción que transcurre en una época a la cual no pertenezco seria obvio que debería investigar al respecto, pero con el tiempo me di cuenta que se puede, y hasta se debe, investigar para cada texto, si tu cuento incluye un vendedor de diarios, es positivo tratar de averiguar, un poco al menos, que es para un vendedor de diaros una jornada normal, y ademas es algo que retroalimenta la idea sobre la que se esta escribiendo, inspirándonos a ampliarla.
  <br/>&nbsp;**Corrección**: Esta bien yo escribo muy mal y hablar de esto es medio caradura, pero la corrección no solo se refiere a lo ortográfico o gramatical o etc. Corrección habla también sobre volver al texto para darle un _sentido de ser_ como decía antes, habla de ordenarlo, de ponerlo en su lugar, de darle un final acorde, es iterativo, uno debe volver sobre el texto y debe volver sobre el resultado de la corrección y aplicar nuevamente los tres puntos explicados. Al menos hasta no querer volver a ver el texto nunca más, porque el riesgo de vivir la eternidad corrigiéndolo existe, es como agregarle cosas a una pintura o un dibujo, hay que evitar el momento donde lo saturamos o agregamos algo que estropea lo que teníamos.
